@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1073338407388",
+    "firebase_url": "https://omnie-a77b5.firebaseio.com",
+    "project_id": "omnie-a77b5",
+    "storage_bucket": "omnie-a77b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073338407388:android:19f9c4b490cb2428975719",
+        "android_client_info": {
+          "package_name": "com.example.omnie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073338407388-a9iq6psgotiot2ok6551lurpjd30phst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omnie",
+            "certificate_hash": "db974552700443f7e72b3ee49a2545b96f7dc2de"
+          }
+        },
+        {
+          "client_id": "1073338407388-b5o1vilj590e3rs9i3a74gflbcl4nv7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_TvIVrJJnGYGovVKCvmr5exOaLILtO44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073338407388-b5o1vilj590e3rs9i3a74gflbcl4nv7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
